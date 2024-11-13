@@ -5,7 +5,7 @@ import os
 import sys
 
 # Define the repository path
-repo_path = '/home/cam/detection-engineering/detections'
+repo_path = '/home/user/detection-engineering/detections'
 
 def run_git_command(command):
     """Runs a git command and returns output, or exits if an error occurs."""
